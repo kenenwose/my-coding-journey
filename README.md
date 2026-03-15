@@ -2,12 +2,17 @@
 
 
 ##Who I am
+
 My name is Kenechukwu Favour Nwose
 I am from Nigeria
 Currently learning Python and AI development
-WHAT I WANT TO BUILD?
+
+
+##WHAT I WANT TO BUILD?
 AI silution for African markets
+
 ##MY Goals
+
 -Master Python
 - Learn AI and Machine Learning
 - Build product that solve Africa problems
