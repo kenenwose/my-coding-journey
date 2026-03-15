@@ -9,6 +9,7 @@ Currently learning Python and AI development
 
 
 ##WHAT I WANT TO BUILD?
+
 AI silution for African markets
 
 ##MY Goals
